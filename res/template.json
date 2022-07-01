@@ -1,4 +1,4 @@
 {
-    "chakra_admin" : "",
-    "not_admin" : ""
+    "관리자" : "chakra_admin",
+    "관리자 아님" : "not_admin"
 }
